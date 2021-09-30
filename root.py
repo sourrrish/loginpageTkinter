@@ -1,5 +1,5 @@
 '''
-1)Look for the assets folder for the respective images.
+1)Make a new assets folder for the respective images and put the folder in the same path.
 2)Download the font Salsa it looks really nice, Here's the link
 
 Download font from here - https://fonts.google.com/specimen/Salsa
